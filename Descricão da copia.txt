@@ -1,0 +1,4 @@
+Esta cópia de slider foi criada 
+para demonstrar caso queira o slider de 
+um tamanho especifico na tela ao inves
+de ocupar todo espaço.
